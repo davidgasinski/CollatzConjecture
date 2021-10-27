@@ -10,4 +10,4 @@ A simple python program that draws a tree for incrementing values using the Coll
  - Window Width
  - Whether the branch will be created in a fix direction (ie. right only) or in a random direction (right or left)
 
-Change the variables in collatz.json to edit the values.
+Change the variables in collatz.json

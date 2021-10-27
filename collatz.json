@@ -1,0 +1,11 @@
+{
+    "start_number" : "12",
+    "colour_even" : "blue",
+    "colour_odd" : "red",
+    "bg_colour" : "black",
+    "window_width" : "1200",
+    "window_height" : "10000",
+    "angle" : "35",
+    "distance" : "8",
+    "fixed_direction" : "False"
+}

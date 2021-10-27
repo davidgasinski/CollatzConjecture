@@ -1,4 +1,4 @@
-# CollatzConjecture
+# Collatz Conjecture
 A simple python program that draws a tree for incrementing values using the Collatz Conjecture.
 ### Values which can be edited:
  - Length of branches
